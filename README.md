@@ -4,7 +4,7 @@ This application and exercises will take you through some of the OWASP top 10 Vu
 
 ## Up and running
 
-Server will be running on localhost:8080
+Server will be running on localhost:8080s
 
 ```
 docker-compose up
